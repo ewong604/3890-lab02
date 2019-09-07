@@ -1,5 +1,7 @@
 Project (student)
 
+
+
 ansible (Tyler)
 chart.xkcd (Runze)
 dapy (Runze)
@@ -17,7 +19,9 @@ overcommit (Runze)
 pelican (Sahil)
 pytest (Brendon) ... implied
 scrapy (Tyler)
-stardu valley (Eric)
+stardew valley (Eric)
+JARVIS-on-Messenger (Eric)
+zulip (Eric)
 storybook.js (Tyler)
 tensorflow (Sahil)
 universe (Sahil)
